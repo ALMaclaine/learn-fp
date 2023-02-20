@@ -23,6 +23,9 @@
       ],
       "@learn-fp-ts/examples/misc/general/example02": [
         "libs/examples/misc/general/example02/src/index.ts"
+      ],
+      "@learn-fp-ts/examples/misc/general/example03": [
+        "libs/examples/misc/general/example03/src/index.ts"
       ]
     }
   },

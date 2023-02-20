@@ -1,0 +1,34 @@
+{
+  "name": "examples-misc-general-example03",
+  "$schema": "../../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/examples/misc/general/example03/src",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nrwl/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/examples/misc/general/example03",
+        "main": "libs/examples/misc/general/example03/src/index.ts",
+        "tsConfig": "libs/examples/misc/general/example03/tsconfig.lib.json",
+        "assets": ["libs/examples/misc/general/example03/*.md"]
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["libs/examples/misc/general/example03/**/*.ts"]
+      }
+    },
+    "test": {
+      "executor": "@nrwl/vite:test",
+      "outputs": ["coverage/libs/examples/misc/general/example03"],
+      "options": {
+        "passWithNoTests": true,
+        "reportsDirectory": "../../../../../coverage/libs/examples/misc/general/example03"
+      }
+    }
+  },
+  "tags": []
+}
