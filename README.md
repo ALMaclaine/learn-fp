@@ -15,6 +15,8 @@
 - https://dev.to/anthonyjoeseph/should-i-use-fp-ts-option-28ed
 - https://cjonas.gitbook.io/mostly-adequate-fp-ts/
 - https://github.com/enricopolanski/functional-programming
+- https://dev.to/derp/bounded-types-in-fp-ts-7db
+- https://dev.to/derp/bounded-types-in-io-ts-28g5
 
 ### books
 - https://zanza00.gitbook.io/learn-fp-ts/
