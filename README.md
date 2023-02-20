@@ -13,3 +13,6 @@
 ### Misc
 - https://medium.com/swlh/using-option-and-either-from-fp-ts-typescript-30dc8894786
 - https://dev.to/anthonyjoeseph/should-i-use-fp-ts-option-28ed
+
+### functional programming
+- https://degoes.net/articles/destroy-all-ifs
