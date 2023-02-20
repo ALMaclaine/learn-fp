@@ -18,6 +18,9 @@
 - https://dev.to/derp/bounded-types-in-fp-ts-7db
 - https://dev.to/derp/bounded-types-in-io-ts-28g5
 
+### Stackoverflow
+- https://stackoverflow.com/questions/tagged/fp-ts
+
 ### books
 - https://zanza00.gitbook.io/learn-fp-ts/
 
