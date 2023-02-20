@@ -14,5 +14,8 @@
 - https://medium.com/swlh/using-option-and-either-from-fp-ts-typescript-30dc8894786
 - https://dev.to/anthonyjoeseph/should-i-use-fp-ts-option-28ed
 
+### videos
+- https://www.youtube.com/@ryandavisdev/videos
+
 ### functional programming
 - https://degoes.net/articles/destroy-all-ifs
