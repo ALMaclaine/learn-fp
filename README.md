@@ -34,3 +34,4 @@
 - https://degoes.net/articles/destroy-all-ifs
 - https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
 - https://www.adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+- https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
