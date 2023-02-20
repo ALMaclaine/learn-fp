@@ -17,6 +17,7 @@
 - https://github.com/enricopolanski/functional-programming
 - https://dev.to/derp/bounded-types-in-fp-ts-7db
 - https://dev.to/derp/bounded-types-in-io-ts-28g5
+- https://marcel.is/fp-ts/
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
