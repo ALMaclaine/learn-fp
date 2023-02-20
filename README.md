@@ -26,6 +26,7 @@
 
 ### videos
 - https://www.youtube.com/@ryandavisdev/videos
+- https://www.youtube.com/@monsieurBoutte/videos
 
 ### functional programming
 - https://degoes.net/articles/destroy-all-ifs
