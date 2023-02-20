@@ -17,6 +17,9 @@
     "paths": {
       "@learn-fp-ts/examples/misc/arrays/example01": [
         "libs/examples/misc/arrays/example01/src/index.ts"
+      ],
+      "@learn-fp-ts/examples/misc/general/example01": [
+        "libs/examples/misc/general/example01/src/index.ts"
       ]
     }
   },
