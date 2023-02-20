@@ -32,3 +32,4 @@
 ### functional programming
 - https://degoes.net/articles/destroy-all-ifs
 - https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+- https://www.adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
