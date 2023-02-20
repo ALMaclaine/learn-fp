@@ -12,3 +12,20 @@
 
 ### Misc
 - https://medium.com/swlh/using-option-and-either-from-fp-ts-typescript-30dc8894786
+- https://dev.to/anthonyjoeseph/should-i-use-fp-ts-option-28ed
+- https://cjonas.gitbook.io/mostly-adequate-fp-ts/
+- https://github.com/enricopolanski/functional-programming
+- https://dev.to/derp/bounded-types-in-fp-ts-7db
+- https://dev.to/derp/bounded-types-in-io-ts-28g5
+
+### Stackoverflow
+- https://stackoverflow.com/questions/tagged/fp-ts
+
+### books
+- https://zanza00.gitbook.io/learn-fp-ts/
+
+### videos
+- https://www.youtube.com/@ryandavisdev/videos
+
+### functional programming
+- https://degoes.net/articles/destroy-all-ifs
