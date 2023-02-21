@@ -21,6 +21,7 @@
 - https://blog.algora.io/post/2021-02-fp-primer/
 - https://paulgray.net/
 - https://dev.to/ruizb/introduction-961
+- https://dev.to/derp
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
