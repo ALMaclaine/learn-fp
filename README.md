@@ -33,6 +33,7 @@
 ### videos
 - https://www.youtube.com/@ryandavisdev/videos
 - https://www.youtube.com/@monsieurBoutte/videos
+- https://www.youtube.com/watch?v=-U9HQembktY
 
 ### functional programming
 - https://degoes.net/articles/destroy-all-ifs
