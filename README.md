@@ -20,6 +20,7 @@
 - https://marcel.is/fp-ts/
 - https://blog.algora.io/post/2021-02-fp-primer/
 - https://paulgray.net/
+- https://dev.to/ruizb/introduction-961
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
