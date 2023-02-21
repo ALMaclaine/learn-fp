@@ -19,6 +19,7 @@
 - https://dev.to/derp/bounded-types-in-io-ts-28g5
 - https://marcel.is/fp-ts/
 - https://blog.algora.io/post/2021-02-fp-primer/
+- https://paulgray.net/
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
