@@ -23,6 +23,7 @@
 - https://dev.to/ruizb/introduction-961
 - https://dev.to/derp
 - https://kubyshkin.name/posts/newtype-in-typescript/
+- https://medium.com/@walther.se
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
