@@ -24,6 +24,7 @@
 - https://dev.to/derp
 - https://kubyshkin.name/posts/newtype-in-typescript/
 - https://medium.com/@walther.se
+- https://troikatech.com/blog/2020/09/11/a-tour-of-typescript-as-a-statically-typed-fp-lang/
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
