@@ -30,6 +30,7 @@
 - https://dev.to/anthonyjoeseph
 - https://dev.to/mikesol
 - https://andywhite.xyz/posts/2021-01-27-rte-foundations/
+- https://blockscope.dev/typescript/getting-started-with-fp-ts/intro/
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
