@@ -31,6 +31,7 @@
 - https://dev.to/mikesol
 - https://andywhite.xyz/posts/2021-01-27-rte-foundations/
 - https://blockscope.dev/typescript/getting-started-with-fp-ts/intro/
+- https://itnext.io/fp-ts-in-action-d7d5f41c4858
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
