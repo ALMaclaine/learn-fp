@@ -32,6 +32,7 @@
 - https://andywhite.xyz/posts/2021-01-27-rte-foundations/
 - https://blockscope.dev/typescript/getting-started-with-fp-ts/intro/
 - https://itnext.io/fp-ts-in-action-d7d5f41c4858
+- https://jrsinclair.com/articles/2019/what-i-wish-someone-had-explained-about-functional-programming/
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
