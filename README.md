@@ -43,3 +43,6 @@
 - https://www.adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 - https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
 - https://fsharpforfunandprofit.com/ddd/
+
+### offtopic
+https://crdt.tech/
