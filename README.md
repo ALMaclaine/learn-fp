@@ -29,6 +29,7 @@
 - https://meeshkan.com/blog/functional-programming-for-frontend-pipe/
 - https://dev.to/anthonyjoeseph
 - https://dev.to/mikesol
+- https://andywhite.xyz/posts/2021-01-27-rte-foundations/
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
