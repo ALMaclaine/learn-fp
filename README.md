@@ -28,6 +28,7 @@
 - https://medium.com/candle-finance/how-to-save-100s-of-debugging-hours-with-fp-ts-5c40d775f483
 - https://meeshkan.com/blog/functional-programming-for-frontend-pipe/
 - https://dev.to/anthonyjoeseph
+- https://dev.to/mikesol
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
