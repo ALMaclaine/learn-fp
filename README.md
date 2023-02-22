@@ -46,3 +46,4 @@
 
 ### offtopic
 https://crdt.tech/
+https://jzhao.xyz/posts/bft-json-crdt/
