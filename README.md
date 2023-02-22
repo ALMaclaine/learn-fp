@@ -52,5 +52,6 @@
 - https://fsharpforfunandprofit.com/ddd/
 
 ### offtopic
-https://crdt.tech/
-https://jzhao.xyz/posts/bft-json-crdt/
+- https://crdt.tech/
+- https://jzhao.xyz/posts/bft-json-crdt/
+- https://dev.to/effect-ts/the-case-for-ts-18b3/
