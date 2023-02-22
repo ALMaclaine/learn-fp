@@ -25,6 +25,7 @@
 - https://kubyshkin.name/posts/newtype-in-typescript/
 - https://medium.com/@walther.se
 - https://troikatech.com/blog/2020/09/11/a-tour-of-typescript-as-a-statically-typed-fp-lang/
+- https://medium.com/candle-finance/how-to-save-100s-of-debugging-hours-with-fp-ts-5c40d775f483
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
