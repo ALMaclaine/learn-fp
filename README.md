@@ -46,6 +46,7 @@
 - https://www.youtube.com/@monsieurBoutte/videos
 - https://www.youtube.com/watch?v=-U9HQembktY
 - https://www.youtube.com/watch?v=US8QG9I1XW0
+- https://www.youtube.com/watch?v=AqeR-Fn75Sw
 
 ### functional programming
 - https://degoes.net/articles/destroy-all-ifs
