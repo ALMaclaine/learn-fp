@@ -9,6 +9,7 @@
     "experimentalDecorators": true,
     "importHelpers": true,
     "target": "es2015",
+    "strict": true,
     "module": "esnext",
     "lib": ["es2017", "dom"],
     "skipLibCheck": true,
@@ -26,6 +27,12 @@
       ],
       "@learn-fp-ts/examples/misc/general/example03": [
         "libs/examples/misc/general/example03/src/index.ts"
+      ],
+      "@learn-fp-ts/examples/misc/option/example01": [
+        "libs/examples/misc/option/example01/src/index.ts"
+      ],
+      "@learn-fp-ts/examples/misc/state/example01": [
+        "libs/examples/misc/state/example01/src/index.ts"
       ]
     }
   },
