@@ -55,7 +55,9 @@
 - https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
 - https://fsharpforfunandprofit.com/ddd/
 - https://github.com/hemanth/functional-programming-jargon#functor
-
+- https://fsharpforfunandprofit.com/ddd/
+- https://leanpub.com/functionalprogrammingintypescriptapracticalguide
+- https://www.educative.io/courses/using-fp-ts-for-functional-programming-in-typescript/N8BZ8NzX5Gz
 
 ### offtopic
 - https://crdt.tech/
