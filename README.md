@@ -34,6 +34,7 @@
 - https://itnext.io/fp-ts-in-action-d7d5f41c4858
 - https://jrsinclair.com/articles/2019/what-i-wish-someone-had-explained-about-functional-programming/
 - https://blockscope.dev/
+- https://dev.to/anthonyjoeseph/fp-ts-and-even-more-beautiful-api-calls-w-sum-types-53j0
 
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
