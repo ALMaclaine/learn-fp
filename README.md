@@ -39,9 +39,6 @@
 ### Stackoverflow
 - https://stackoverflow.com/questions/tagged/fp-ts
 
-### books
-- https://zanza00.gitbook.io/learn-fp-ts/
-
 ### videos
 - https://www.youtube.com/@ryandavisdev/videos
 - https://www.youtube.com/@monsieurBoutte/videos
