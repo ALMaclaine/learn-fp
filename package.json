@@ -39,6 +39,7 @@
     "vitest": "^0.25.8"
   },
   "dependencies": {
+    "@effect/data": "^0.12.2",
     "axios": "^1.0.0",
     "fp-ts": "^2.13.1",
     "parse-url": "^8.1.0"

@@ -44,7 +44,6 @@
 - https://www.youtube.com/@monsieurBoutte/videos
 - https://www.youtube.com/watch?v=-U9HQembktY
 - https://www.youtube.com/watch?v=US8QG9I1XW0
-- https://www.youtube.com/watch?v=AqeR-Fn75Sw
 
 ### functional programming
 - https://degoes.net/articles/destroy-all-ifs
@@ -61,3 +60,6 @@
 - https://crdt.tech/
 - https://jzhao.xyz/posts/bft-json-crdt/
 - https://dev.to/effect-ts/the-case-for-ts-18b3/
+
+### codesandboxes
+https://codesandbox.io/s/domain-specific-languages-forked-7dtrc?file=/src/final-encodings/io.ts
