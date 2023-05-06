@@ -2,6 +2,10 @@
 
 ## resources
 
+### archived
+- https://github.com/enricopolanski/functional-programming
+- https://spectrum.ieee.org/functional-programming
+
 ### Practical Guide to fp-ts
 - [Part 1](https://rlee.dev/practical-guide-to-fp-ts-part-1)
 - [Part 2](https://rlee.dev/practical-guide-to-fp-ts-part-2)
@@ -11,10 +15,11 @@
 - [Part 6](https://rlee.dev/practical-guide-to-fp-ts-part-6)
 
 ### Misc
+- https://medium.com/inato/our-journey-to-functional-programing-36854a370de1
+- https://github.com/inato/fp-ts-training
 - https://medium.com/swlh/using-option-and-either-from-fp-ts-typescript-30dc8894786
 - https://dev.to/anthonyjoeseph/should-i-use-fp-ts-option-28ed
 - https://cjonas.gitbook.io/mostly-adequate-fp-ts/
-- https://github.com/enricopolanski/functional-programming
 - https://dev.to/derp/bounded-types-in-fp-ts-7db
 - https://dev.to/derp/bounded-types-in-io-ts-28g5
 - https://marcel.is/fp-ts/
@@ -85,3 +90,14 @@ https://codesandbox.io/s/effect-ts-experiments-2d4m2
 https://codesandbox.io/s/flamboyant-sky-5dfcr?file=/src/App.tsx:0-23
 https://codesandbox.io/s/busy-easley-drh51?file=/src/App.tsx:0-27
 
+### repos
+https://github.com/search?q=fp-ts&type=repositories&p=1
+https://github.com/TylorS/typed-fp
+https://github.com/devmatteini/from-fp-ts-to-effect-ts
+https://github.com/tim-smart/dfx
+https://github.com/GabeAtWork/effect-ts-todo-example-app
+https://github.com/ricardocasares/mars-rover
+https://github.com/Walexander/effect-graphics
+https://github.com/ayoung4/effect-ts-rxjs-bindings
+https://github.com/ayoung4/effect-ts-todos
+https://github.com/pigoz/effect-crashcourse/tree/master
