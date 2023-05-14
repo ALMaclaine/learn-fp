@@ -1,0 +1,72 @@
+{
+  "name": "fp-ts-web-01",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/fp-ts-web-01/src",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/vite:build",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "outputPath": "dist/apps/fp-ts-web-01"
+      },
+      "configurations": {
+        "development": {
+          "mode": "development"
+        },
+        "production": {
+          "mode": "production"
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nx/vite:dev-server",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "fp-ts-web-01:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "fp-ts-web-01:build:development",
+          "hmr": true
+        },
+        "production": {
+          "buildTarget": "fp-ts-web-01:build:production",
+          "hmr": false
+        }
+      }
+    },
+    "preview": {
+      "executor": "@nx/vite:preview-server",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "fp-ts-web-01:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "fp-ts-web-01:build:development"
+        },
+        "production": {
+          "buildTarget": "fp-ts-web-01:build:production"
+        }
+      }
+    },
+    "test": {
+      "executor": "@nx/vite:test",
+      "outputs": ["coverage/apps/fp-ts-web-01"],
+      "options": {
+        "passWithNoTests": true,
+        "reportsDirectory": "../../coverage/apps/fp-ts-web-01"
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/fp-ts-web-01/**/*.ts"]
+      }
+    }
+  }
+}
