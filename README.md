@@ -10,3 +10,4 @@
 
 ## general
 - https://spectrum.ieee.org/functional-programming
+- https://www.youtube.com/watch?v=uwALExyq4NY
