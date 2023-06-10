@@ -2,6 +2,7 @@
 
 ### resources
 - https://dev.to/effect-ts/the-case-for-ts-18b3/
+- https://github.com/antoine-coulon/effect-introduction
 
 ### codesandboxes
 https://codesandbox.io/s/domain-specific-languages-forked-7dtrc?file=/src/final-encodings/io.ts
