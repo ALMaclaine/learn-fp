@@ -1,4 +1,4 @@
-# learn effect=ts
+# learn effect-ts
 
 ### resources
 - https://dev.to/effect-ts/the-case-for-ts-18b3/
