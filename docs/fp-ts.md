@@ -3,10 +3,6 @@
 ## resources
 
 ### Misc
-- https://medium.com/inato/our-journey-to-functional-programing-36854a370de1
-- https://github.com/inato/fp-ts-training
-- https://medium.com/swlh/using-option-and-either-from-fp-ts-typescript-30dc8894786
-- https://dev.to/anthonyjoeseph/should-i-use-fp-ts-option-28ed
 - https://cjonas.gitbook.io/mostly-adequate-fp-ts/
 - https://dev.to/derp/bounded-types-in-fp-ts-7db
 - https://dev.to/derp/bounded-types-in-io-ts-28g5
@@ -55,6 +51,10 @@
 
 ## archived
 - https://github.com/enricopolanski/functional-programming
+- https://medium.com/inato/our-journey-to-functional-programing-36854a370de1
+- https://github.com/inato/fp-ts-training
+- https://medium.com/swlh/using-option-and-either-from-fp-ts-typescript-30dc8894786
+- https://dev.to/anthonyjoeseph/should-i-use-fp-ts-option-28ed
 
 ### Practical Guide to fp-ts
 - [Part 1](https://rlee.dev/practical-guide-to-fp-ts-part-1)
@@ -63,3 +63,4 @@
 - [Part 4](https://rlee.dev/practical-guide-to-fp-ts-part-4)
 - [Part 5](https://rlee.dev/practical-guide-to-fp-ts-part-5)
 - [Part 6](https://rlee.dev/practical-guide-to-fp-ts-part-6)
+
