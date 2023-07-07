@@ -37,7 +37,7 @@
     "ts-node": "10.9.1",
     "tslib": "^2.5.0",
     "typescript": "5.0.4",
-    "vite": "4.3.5",
+    "vite": "4.3.9",
     "vite-plugin-eslint": "^1.8.1",
     "vite-tsconfig-paths": "4.2.0",
     "vitest": "0.31.0"
