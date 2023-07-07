@@ -15,7 +15,6 @@
 - https://codesandbox.io/s/fp-ts-react-hooks-forked-wu8x4e?file=/src/fp-ts/Async/Data/Lazy.ts
 - https://codesandbox.io/s/affectionate-chebyshev-j6lvj
 - https://codesandbox.io/s/tender-forest-qjzeh
-- https://codesandbox.io/s/busy-forest-qhodg6
 - https://codesandbox.io/s/elegant-kirch-8d428?file=/src/lib/index.ts
 - https://codesandbox.io/s/compassionate-pateu-cicm1n?file=/src/Widget.ts
 - https://codesandbox.io/s/kind-lovelace-dgrvf?file=/src/index.ts
