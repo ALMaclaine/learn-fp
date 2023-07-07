@@ -4,7 +4,8 @@ import { defineConfig } from 'vite';
 import viteTsConfigPaths from 'vite-tsconfig-paths';
 
 export default defineConfig({
-  cacheDir: '../../../../../node_modules/.vite/examples-misc-general-example03',
+  cacheDir:
+    '../../../../../node_modules/.vite/examples-misc-general.md-example03',
 
   plugins: [
     viteTsConfigPaths({
