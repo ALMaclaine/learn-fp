@@ -10,7 +10,6 @@
 - https://codesandbox.io/s/nameless-framework-91p433?file=/src/index.ts
 - https://codesandbox.io/s/serene-perlman-v4bsvx?file=/src/Widget.ts
 - https://codesandbox.io/s/inspiring-mccarthy-2g7hj
-- https://codesandbox.io/s/awesome-cookies-m8pg7
 - https://codesandbox.io/s/angry-golick-1gtnon
 - https://codesandbox.io/s/rough-tree-bp57r
 - https://codesandbox.io/s/fp-ts-react-hooks-forked-wu8x4e?file=/src/fp-ts/Async/Data/Lazy.ts
