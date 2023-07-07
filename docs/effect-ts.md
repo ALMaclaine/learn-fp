@@ -16,8 +16,6 @@
 - https://codesandbox.io/s/affectionate-chebyshev-j6lvj
 - https://codesandbox.io/s/elegant-kirch-8d428?file=/src/lib/index.ts
 - https://codesandbox.io/s/compassionate-pateu-cicm1n?file=/src/Widget.ts
-- https://codesandbox.io/s/kind-lovelace-dgrvf?file=/src/index.ts
-- https://codesandbox.io/s/vibrant-grass-j1w60q
 - https://codesandbox.io/s/wizardly-bas-vlflzh
 - https://codesandbox.io/s/effect-ts-experiments-2d4m2
 - https://codesandbox.io/s/flamboyant-sky-5dfcr?file=/src/App.tsx:0-23
