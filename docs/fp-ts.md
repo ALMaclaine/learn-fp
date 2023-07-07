@@ -2,17 +2,6 @@
 
 ## resources
 
-### archived
-- https://github.com/enricopolanski/functional-programming
-
-### Practical Guide to fp-ts
-- [Part 1](https://rlee.dev/practical-guide-to-fp-ts-part-1)
-- [Part 2](https://rlee.dev/practical-guide-to-fp-ts-part-2)
-- [Part 3](https://rlee.dev/practical-guide-to-fp-ts-part-3)
-- [Part 4](https://rlee.dev/practical-guide-to-fp-ts-part-4)
-- [Part 5](https://rlee.dev/practical-guide-to-fp-ts-part-5)
-- [Part 6](https://rlee.dev/practical-guide-to-fp-ts-part-6)
-
 ### Misc
 - https://medium.com/inato/our-journey-to-functional-programing-36854a370de1
 - https://github.com/inato/fp-ts-training
@@ -63,3 +52,14 @@
 ### off topic
 - https://crdt.tech/
 - https://jzhao.xyz/posts/bft-json-crdt/
+
+## archived
+- https://github.com/enricopolanski/functional-programming
+
+### Practical Guide to fp-ts
+- [Part 1](https://rlee.dev/practical-guide-to-fp-ts-part-1)
+- [Part 2](https://rlee.dev/practical-guide-to-fp-ts-part-2)
+- [Part 3](https://rlee.dev/practical-guide-to-fp-ts-part-3)
+- [Part 4](https://rlee.dev/practical-guide-to-fp-ts-part-4)
+- [Part 5](https://rlee.dev/practical-guide-to-fp-ts-part-5)
+- [Part 6](https://rlee.dev/practical-guide-to-fp-ts-part-6)
