@@ -14,7 +14,6 @@
 - https://codesandbox.io/s/angry-golick-1gtnon
 - https://codesandbox.io/s/rough-tree-bp57r
 - https://codesandbox.io/s/fp-ts-react-hooks-forked-wu8x4e?file=/src/fp-ts/Async/Data/Lazy.ts
-- https://codesandbox.io/s/fervent-diffie-g8t6b
 - https://codesandbox.io/s/affectionate-chebyshev-j6lvj
 - https://codesandbox.io/s/tender-forest-qjzeh
 - https://codesandbox.io/s/busy-forest-qhodg6
